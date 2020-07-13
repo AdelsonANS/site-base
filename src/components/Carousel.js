@@ -1,7 +1,7 @@
 import React from 'react';
 import slide0 from '../assets/sld0.jpg';
 import slide1 from '../assets/sld1.jpg';
-import slide2 from '../assets/sld2.jpeg';
+import slide2 from '../assets/sld2.jpg';
 function Carousel(){
     return(
 
